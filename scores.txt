@@ -1,0 +1,7 @@
+Fácil; Jonas; Rato, -3
+Fácil; Beatriz; Panela, 7
+Fácil; Lucas; faca, 4
+Fácil; Yan; onibus; 2
+Fácil; lepisca; peixe, tenue, noite; 20
+Fácil; ronald; balao; 9
+Médio; Yasu; esfirra, impacto, limonada, ardiloso, excecao, afilhado, amarelo, caminho, chuveiro, pororoca, contexto, amizade; 27
