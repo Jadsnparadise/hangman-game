@@ -1,6 +1,6 @@
 # Hangman-Game <img align="center" alt="Jadsn-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
-project from college's subject Language progamming 1 
+project from a college subject named as progamming Language 1 
 
 # About the program:
 
